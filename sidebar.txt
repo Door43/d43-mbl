@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbl:home|Door43 (mbl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbl|d43-mbl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbl/archive/master.zip|d43-mbl.zip]]
+
+**Recent Changes**
+{{changes>ns = mbl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbl|Ethnologue data]]
+
